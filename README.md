@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Masterhead](https://www.vansysinc.com/wp-content/uploads/2023/08/banner-cyber-security-2-1.gif)
+[![Masterhead](https://www.vansysinc.com/wp-content/uploads/2023/08/banner-cyber-security-2-1.gif)]
 <h3 align="center">A fullstack developer from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -80,23 +80,8 @@ Here are some ideas to get you started:
 
 <!-- most used languages -->
 <p>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caina-mota&theme=dark"
-    media="(prefers-color-scheme: dark)"  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caina-mota"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  />
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caina-mota&theme=dark" />
 </p>
-
 <p>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=caina-mota&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=caina-mota&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"  />
-</picture>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=caina-mota&show_icons=true&theme=dark" alt="gitStats"  />
+<p>
