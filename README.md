@@ -14,8 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Masterhead](https://www.vansysinc.com/wp-content/uploads/2023/08/banner-cyber-security-2-1.gif)
+[![MasterHead](https://www.vansysinc.com/wp-content/uploads/2023/08/banner-cyber-security-2-1.gif)](https://github.com/caina-mota)
 <h3 align="center">A fullstack developer from Brazil</h3>
+
+[PT-BR]
+
+Formado em Engenharia da computação pela Universidade do Vale do Rio dos Sinos e cursando especialização em Engenharia de Software pela mesma instituição. Trabalhando atualmente no desenvolvimento de produtos e aplicações na área médica.
+
+Com interesse em entender e se especializar no desenvolvimento *fullstack* utilizando, principalmente as tecnologias baseadas nas linguagens e framewors C# .NET, contribuindo, trabalhando e desenvolvendo soluções também em python para análise e manipulação de dados e C para sistemas embarcados. 
+
+[EN]
+
+Graduated in Computer Engineering from the University of Vale do Rio dos Sinos and currently pursuing a specialization in Software Engineering from the same institution. Currently working on product and application development in the medical field.
+
+With an interest in understanding and specializing in full-stack development, primarily using technologies based on C# .NET languages and frameworks, contributing, working, and developing solutions also in Python for data analysis and manipulation and C for embedded systems.
+
+<p align="right">Abril 2024 / April 2024</p>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -24,7 +38,7 @@ Here are some ideas to get you started:
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <p align="left"> 
 <div>
@@ -80,8 +94,11 @@ Here are some ideas to get you started:
 
 <!-- most used languages -->
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caina-mota&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caina-mota&theme=dark&bg_color=050505&border_color=268038" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=caina-mota&show_icons=true&theme=dark" alt="gitStats"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=caina-mota&show_icons=true&theme=dark&bg_color=050505&border_color=268038" alt="gitStats"  />
 <p>
+<p>
+    <img src="https://streak-stats.demolab.com/?user=caina-mota&theme=dark&background=050505&border=268038&dates=FFF" alt=ContribStats />
+</p>
