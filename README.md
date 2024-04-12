@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Masterhead](https://www.vansysinc.com/wp-content/uploads/2023/08/banner-cyber-security-2-1.gif)]
+![Masterhead](https://www.vansysinc.com/wp-content/uploads/2023/08/banner-cyber-security-2-1.gif)
 <h3 align="center">A fullstack developer from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
